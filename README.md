@@ -1,6 +1,7 @@
 
 # Supervised Learning
 ## Project: Finding Donors for CharityML
+In this project, I applied several supervised algorithms of my choice to accurately model individuals' incomes using data collected from the 1994 U.S. Census. Then I chose the best candidate algorithm from the preliminary results and further optimised this algorithm to best model the data. The goal with this implementation is to construct a model that accurately predicts whether an individual makes more than $50,000. 
 
 ### Data
 
